@@ -1,3 +1,6 @@
+
+Please refer the live demo at : https://skw321.github.io/sliding_navbar/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
